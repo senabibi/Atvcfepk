@@ -283,7 +283,7 @@ The ATVCFEPK project was developed through a combination of expertise, dedicatio
 [CPP-url]: https://en.wikipedia.org/wiki/C%2B%2B
 
 
-[Snyk.com]: https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white
+[Snyk.com]: https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white
 [Snyk-url]: https://snyk.io/
 
 [Spring_Security.com]: https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white
